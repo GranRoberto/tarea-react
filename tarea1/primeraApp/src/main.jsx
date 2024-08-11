@@ -23,7 +23,6 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
     <img className='w-96' src="https://www.freeiconspng.com/uploads/pokemon-png-23.png" alt="Pokemon" />
     <Card
-      className='bg-yellow-500'
       title='Pikachu'
       description='Electrico'
       image='https://1.bp.blogspot.com/-vebFgy0dHCk/V1wrmTqMc5I/AAAAAAAAH00/O_9CLTyvoZAsPaz5_35jQjBtCiY_uGJeQCLcB/s1600/Pikatchu_Pokemon.png'
