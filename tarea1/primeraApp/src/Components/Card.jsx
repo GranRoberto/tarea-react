@@ -21,7 +21,7 @@ export default function Card({
 }) {
     return (
     <>
-      <div className="my-4 bg-slate-600 text-white rounded-[25px] flex flex-col justify-center items-center gap-2" >
+      <div className="my-4 bg-slate-600 text-white rounded-[25px] flex flex-col justify-center items-center gap-2 w-40 h-60" >
         <div>
           <img className="w-32" src={image} alt={title} />
           <h2>{title}</h2>
